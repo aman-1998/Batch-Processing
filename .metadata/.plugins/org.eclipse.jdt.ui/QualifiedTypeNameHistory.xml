@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.JobBuilderFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.Job"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.Step"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.step.tasklet.Tasklet"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.StepContribution"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.scope.context.ChunkContext"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.repeat.RepeatStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="personal.learning.app.task.CommunicateWithBankTask"/>
+    <fullyQualifiedTypeName name="personal.learning.app.task.DebitMoneyTask"/>
+    <fullyQualifiedTypeName name="personal.learning.app.task.SendSMSTask"/>
+</qualifiedTypeNameHistroy>

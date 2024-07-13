@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Spring_Batch_Connecting_DB&apos; to &apos;Spring_Batch_Connecting_DB_N4&apos;" description="Rename resource &apos;Spring_Batch_Connecting_DB&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Spring_Batch_Connecting_DB" name="Spring_Batch_Connecting_DB_N4" stamp="1720259432236" updateReferences="true"/>
+</session>

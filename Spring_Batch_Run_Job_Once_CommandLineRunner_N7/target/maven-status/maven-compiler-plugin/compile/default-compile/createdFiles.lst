@@ -1,0 +1,6 @@
+personal\learning\app\task\CommunicateWithBankTask.class
+personal\learning\app\config\AppConfig.class
+personal\learning\app\task\DebitMoneyTask.class
+personal\learning\app\config\SpringBatchConfig.class
+personal\learning\app\task\SendSMSTask.class
+personal\learning\app\Application.class
