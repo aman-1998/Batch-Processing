@@ -5,7 +5,6 @@ import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
-import org.springframework.batch.item.ItemProcessor;
 import org.springframework.batch.item.ItemReader;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,10 +25,7 @@ public class SpringBatchConfig {
 	private ItemReader<Integer> itemReaderForList;
 	
 	@Autowired
-	private ItemProcessor<Integer, String> itemProcessorForList;
-	
-	@Autowired
-	private ItemWriter<String> ItemWriterForList;
+	private ItemWriter<Integer> ItemWriterForList;
 	
 	@Bean
 	public Job myJob() {
@@ -41,9 +37,9 @@ public class SpringBatchConfig {
 	
 	public Step simpleStep() {
 		return stepBuilderFactory.get("Simple Step")
-								 .<Integer, String>chunk(3)
+								 .<Integer, Integer>chunk(3)
 								 .reader(itemReaderForList)
-								 .processor(itemProcessorForList)
+								 //.processor(itemProcessorForList)
 								 .writer(ItemWriterForList)
 								 .build();
 	}

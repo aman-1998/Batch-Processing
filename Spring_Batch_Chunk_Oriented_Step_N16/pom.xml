@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>personal.learning</groupId>
-	<artifactId>Spring_Batch_Step_Listener_N15</artifactId>
+	<artifactId>Spring_Batch_Chunk_Oriented_Step_N16</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Spring_Batch_N1</name>
-	<description>Spring_Batch_Step_Listener_N15</description>
+	<description>Spring_Batch_Chunk_Oriented_Step_N16</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
