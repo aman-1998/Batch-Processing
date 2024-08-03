@@ -6,7 +6,7 @@ import org.springframework.batch.item.ItemWriter;
 
 import personal.learning.app.model.Student;
 
-public class ItemWriterForStudent implements ItemWriter<Student>{
+public class ConsoleItemWriterForStudent implements ItemWriter<Student>{
 
 	@Override
 	public void write(List<? extends Student> students) throws Exception {

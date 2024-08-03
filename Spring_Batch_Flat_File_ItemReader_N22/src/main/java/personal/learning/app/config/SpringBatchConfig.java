@@ -32,7 +32,7 @@ public class SpringBatchConfig {
 	private StepBuilderFactory stepBuilderFactory;
 	
 	@Autowired
-	private ItemWriter<Student> itemWriterForStudent;
+	private ItemWriter<Student> ConsoleItemWriterForStudent;
 	
 	@Autowired
 	private Tasklet testTask;
@@ -52,7 +52,7 @@ public class SpringBatchConfig {
 								 .<Student, Student>chunk(3)
 								 .reader(flatFileItemReader())
 								 //.processor(itemProcessorForList)
-								 .writer(itemWriterForStudent)
+								 .writer(ConsoleItemWriterForStudent)
 								 .build();
 	}
 	
