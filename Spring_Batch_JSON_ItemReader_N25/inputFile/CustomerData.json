@@ -1,0 +1,70 @@
+[
+	{
+		"customerId": 137,
+		"firstName": "Aman",
+		"middleName": "Kumar",
+		"lastName": "Mishra",
+		"email": "aman.mishra@gmail.com"
+	},
+	{
+		"customerId": 138,
+		"firstName": "Jyoti",
+		"lastName": "Kuswaha",
+		"email": "jyoti.kuswaha@gmail.com"
+	},
+	{
+		"customerId": 139,
+		"firstName": "Alka",
+		"lastName": "Prasad",
+		"email": "alka.prasad@gmail.com"
+	},
+	{
+		"customerId": 140,
+		"firstName": "Naveen",
+		"middleName": "Nath",
+		"lastName": "Shah",
+		"email": "naveen.shah@gmail.com"
+	},
+	{
+		"customerId": 141,
+		"firstName": "Ved",
+		"lastName": "Prakash",
+		"email": "ved.prakash@gmail.com"
+	},
+	{
+		"customerId": 142,
+		"firstName": "Shreya",
+		"lastName": "Sanvi",
+		"email": "shreya.sanvi@gmail.com"
+	},
+	{
+		"customerId": 143,
+		"firstName": "Kavita",
+		"lastName": "Jha",
+		"email": "kavita.jha@gmail.com"
+	},
+	{
+		"customerId": 144,
+		"firstName": "Surya",
+		"lastName": "Challa",
+		"email": "aman.agarwal@gmail.com"
+	},
+	{
+		"customerId": 145,
+		"firstName": "Mala",
+		"lastName": "Das",
+		"email": "mala.das@gmail.com"
+	},
+	{
+		"customerId": 146,
+		"firstName": "Mayank",
+		"lastName": "Singh",
+		"email": "mayank.singh@gmail.com"
+	},
+	{
+		"customerId": 147,
+		"firstName": "Shilpa",
+		"lastName": "Vahinipati",
+		"email": "shilpa.vahinipati@gmail.com"
+	}
+]
