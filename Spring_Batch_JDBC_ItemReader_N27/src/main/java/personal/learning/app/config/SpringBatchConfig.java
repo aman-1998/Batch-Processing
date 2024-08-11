@@ -77,6 +77,9 @@ public class SpringBatchConfig {
 		
 		jdbcCursorItemReader.setRowMapper(beanPropertyRowMapper);
 		
+		jdbcCursorItemReader.setCurrentItemCount(2);
+		jdbcCursorItemReader.setMaxItemCount(8);
+		
 		return jdbcCursorItemReader;
 	}
 }
