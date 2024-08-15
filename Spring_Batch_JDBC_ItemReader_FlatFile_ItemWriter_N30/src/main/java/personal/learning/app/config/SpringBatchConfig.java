@@ -43,9 +43,6 @@ public class SpringBatchConfig {
 	private StepBuilderFactory stepBuilderFactory;
 	
 	@Autowired
-	private ItemWriter<Customer> consoleItemWriterForCustomer;
-	
-	@Autowired
 	private Tasklet testTask;
 	
 	@Bean

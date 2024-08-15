@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+	<customer>
+		<id>39</id>
+		<fullName>Pooja Upadhyay</fullName>
+		<emailId>poojaupadhyay1998@gmail.com</emailId>
+		<gender>FEMALE</gender>
+		<language>English</language>
+		<dob>1998-01-13 00:00:00</dob>
+		<address>Toronto</address>
+	</customer>
+	<customer>
+		<id>35</id>
+		<fullName>Anandi Patel</fullName>
+		<emailId>anandipatel@gmail.com</emailId>
+		<gender>FEMALE</gender>
+		<language>Hindi</language>
+		<dob>2004-01-15 00:00:00</dob>
+	</customer>
+	<customer>
+		<id>105</id>
+		<fullName>Ritesh</fullName>
+		<emailId>yadav.ritesh@gmail.com</emailId>
+		<gender>MALE</gender>
+		<language>English</language>
+		<dob>2001-01-13 00:00:00</dob>
+		<address>London</address>
+	</customer>
+	<customer>
+		<id>107</id>
+		<fullName>Ritesh</fullName>
+		<emailId>yadav.ritesh@gmail.com</emailId>
+		<gender>MALE</gender>
+		<language>Maithili</language>
+		<dob>2001-01-13 00:00:00</dob>
+		<address>London</address>
+	</customer>
+	<customer>
+		<id>40</id>
+		<fullName>Pooja Upadhyay</fullName>
+		<emailId>poojaupadhyay1998@gmail.com</emailId>
+		<gender>FEMALE</gender>
+		<language>Sanskrit</language>
+		<dob>1998-01-13 00:00:00</dob>
+		<address>Toronto</address>
+	</customer>
+	<customer>
+		<id>11</id>
+		<fullName>Sehnaz Gill</fullName>
+		<emailId>gill.sehnaz@gmail.com</emailId>
+		<gender>FEMALE</gender>
+		<language>Hindi</language>
+		<dob>1992-01-15 00:00:00</dob>
+	</customer>
+</customers>

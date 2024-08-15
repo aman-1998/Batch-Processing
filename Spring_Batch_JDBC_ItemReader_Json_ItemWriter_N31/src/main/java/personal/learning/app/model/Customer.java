@@ -2,12 +2,17 @@ package personal.learning.app.model;
 
 import java.math.BigInteger;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class Customer {
 	
+	@JsonProperty("id")
 	private BigInteger pk;
 	
+	@JsonProperty("fullName")
 	private String name;
 	
+	@JsonProperty("emailId")
 	private String email;
 	
 	private String gender;
