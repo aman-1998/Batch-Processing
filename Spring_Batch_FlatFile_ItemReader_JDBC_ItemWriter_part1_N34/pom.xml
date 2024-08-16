@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>personal.learning</groupId>
-	<artifactId>Spring_Batch_FlatFile_ItemReader_JDBC_ItemWriter_N34</artifactId>
+	<artifactId>Spring_Batch_FlatFile_ItemReader_JDBC_ItemWriter_part1_N34</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Spring_Batch_N1</name>
-	<description>Spring_Batch_FlatFile_ItemReader_JDBC_ItemWriter_N34</description>
+	<description>Spring_Batch_FlatFile_ItemReader_JDBC_ItemWriter_part1_N34</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
