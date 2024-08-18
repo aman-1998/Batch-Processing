@@ -3,19 +3,24 @@ package personal.learning.app.controller;
 import java.util.Arrays;
 import java.util.List;
 
+import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import personal.learning.app.model.Student;
+import personal.learning.app.model.StudentCsv;
+import personal.learning.app.response.StudentResponse;
 
 @RestController
-@RequestMapping(value="/student/v1")
 public class JobController {
 	
-	@GetMapping(produces = {MediaType.APPLICATION_JSON_VALUE})
+	@GetMapping(value = "/student/v1", produces = {MediaType.APPLICATION_JSON_VALUE})
 	public ResponseEntity<Object> startJob() {
 		
 		Student student1 = new Student();
@@ -63,5 +68,14 @@ public class JobController {
 		List<Student> studentList = Arrays.asList(student1, student2, student3, student4, student5, student6);
 		
 		return ResponseEntity.ok().body(studentList);
+	}
+	
+	@RequestMapping(value = "/createStudent", method=RequestMethod.POST, consumes = {MediaType.APPLICATION_JSON_VALUE}, produces = {MediaType.APPLICATION_JSON_VALUE})
+	@ResponseBody
+	public ResponseEntity<StudentResponse> SaveStudent(@RequestBody StudentCsv student) {
+		
+		System.out.println("Saving Student : " + student);
+		StudentResponse studentResponse = new StudentResponse(HttpStatus.CREATED, "Student is created with Roll : " + student.getRoll());
+		return ResponseEntity.created(null).body(studentResponse);
 	}
 }

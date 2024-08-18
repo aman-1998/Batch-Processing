@@ -65,4 +65,10 @@ public class Student {
 	public void setSubjects(List<String> subjects) {
 		this.subjects = subjects;
 	}
+
+	@Override
+	public String toString() {
+		return "Student [rollNo=" + rollNo + ", firstName=" + firstName + ", lastName=" + lastName + ", standard="
+				+ standard + ", subjects=" + subjects + "]";
+	}
 }

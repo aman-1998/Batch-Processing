@@ -1,7 +1,5 @@
 package personal.learning.app.config;
 
-import javax.sql.DataSource;
-
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
@@ -12,7 +10,6 @@ import org.springframework.batch.core.step.tasklet.Tasklet;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.batch.item.adapter.ItemReaderAdapter;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -37,10 +34,6 @@ public class SpringBatchConfig {
 	
 	@Autowired
 	private StudentService studentService;
-	
-	@Autowired
-	@Qualifier("practiceDatasource")
-	private DataSource practiceDatasource;
 	
 	@Bean
 	public Job myJob() {

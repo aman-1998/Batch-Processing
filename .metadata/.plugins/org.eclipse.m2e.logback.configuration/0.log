@@ -9689,3 +9689,554 @@
 2024-08-16 17:03:15,022 [Worker-1617: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-08-16 17:03:15,022 [Worker-1617: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2024-08-16 17:03:15,022 [Worker-1617: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_JDBC_ItemWriter_Part2_N35\src\test\resources
+2024-08-16 18:38:51,967 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:38:51,967 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:38:51,970 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 18:38:52,280 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 18:38:52,282 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:38:52,282 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:38:52,283 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_ItemReader_N29\src\test\resources
+2024-08-16 18:39:11,909 [Worker-1621: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:39:11,909 [Worker-1621: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:39:11,911 [Worker-1621: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 18:39:12,023 [Worker-1621: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 18:39:12,025 [Worker-1621: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:39:12,025 [Worker-1621: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:39:12,025 [Worker-1621: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_ItemReader_N29\src\test\resources
+2024-08-16 18:42:10,454 [Worker-1628: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: personal.learning:Spring_Batch_REST_API_ItemReader_N29:0.0.1-SNAPSHOT @ C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_ItemWriter_N36\pom.xml.
+2024-08-16 18:42:15,179 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:42:15,179 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:42:15,180 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 18:42:15,184 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 18:42:15,186 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:42:15,187 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:42:15,187 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 18:42:18,450 [Worker-1623: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:42:18,450 [Worker-1623: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:42:18,452 [Worker-1623: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 18:42:18,456 [Worker-1623: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 18:42:18,459 [Worker-1623: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:42:18,459 [Worker-1623: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:42:18,459 [Worker-1623: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 18:43:25,441 [Worker-1628: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: personal.learning:Spring_Batch_REST_API_ItemReader_N29:0.0.1-SNAPSHOT @ C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\pom.xml.
+2024-08-16 18:43:27,664 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:43:27,664 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:43:27,664 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 18:43:27,667 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 18:43:27,668 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:43:27,668 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:43:27,668 [Worker-1628: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 18:43:29,091 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:43:29,091 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:43:29,093 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 18:43:29,096 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 18:43:29,098 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:43:29,098 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:43:29,098 [Worker-1622: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 18:44:28,404 [Worker-1626: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: personal.learning:Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36:0.0.1-SNAPSHOT @ C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\pom.xml.
+2024-08-16 18:44:30,347 [Worker-1626: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:44:30,347 [Worker-1626: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:44:30,347 [Worker-1626: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 18:44:30,348 [Worker-1626: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 18:44:30,349 [Worker-1626: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 18:44:30,350 [Worker-1626: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 18:44:30,350 [Worker-1626: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 19:00:40,077 [Worker-1643: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:00:40,078 [Worker-1643: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:00:40,083 [Worker-1643: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:00:40,128 [Worker-1643: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:00:40,131 [Worker-1643: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:00:40,131 [Worker-1643: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:00:40,131 [Worker-1643: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 19:13:49,944 [Worker-1644: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:13:49,945 [Worker-1644: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:13:49,946 [Worker-1644: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:13:49,991 [Worker-1644: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:13:49,993 [Worker-1644: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:13:49,993 [Worker-1644: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:13:49,993 [Worker-1644: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 19:14:13,111 [Worker-1646: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:14:13,111 [Worker-1646: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:14:13,113 [Worker-1646: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:14:13,144 [Worker-1646: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:14:13,146 [Worker-1646: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:14:13,146 [Worker-1646: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:14:13,146 [Worker-1646: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 19:35:54,331 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:35:54,331 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:35:54,333 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:35:54,361 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:35:54,363 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:35:54,363 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:35:54,363 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:37:24,677 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:37:24,678 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:37:24,679 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:37:24,697 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:37:24,699 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:37:24,699 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:37:24,699 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:37:39,957 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:37:39,957 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:37:39,958 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:37:39,968 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:37:39,970 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:37:39,970 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:37:39,970 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:38:27,423 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:38:27,423 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:38:27,424 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:38:27,435 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:38:27,437 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:38:27,437 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:38:27,437 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:39:54,472 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:39:54,472 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:39:54,473 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:39:54,495 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:39:54,497 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:39:54,497 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:39:54,497 [Worker-1657: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:41:51,587 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:41:51,587 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:41:51,589 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:41:51,713 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:41:51,715 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:41:51,715 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:41:51,715 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:42:37,299 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:42:37,299 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:42:37,301 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:42:37,435 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:42:37,437 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:42:37,437 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:42:37,437 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:43:55,237 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:43:55,238 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:43:55,239 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:43:55,250 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:43:55,254 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:43:55,254 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:43:55,254 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:43:59,459 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:43:59,459 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:43:59,461 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:43:59,473 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:43:59,474 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:43:59,475 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:43:59,475 [Worker-1658: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:46:27,620 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:46:27,620 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:46:27,623 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:46:27,638 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:46:27,640 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:46:27,640 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:46:27,640 [Worker-1656: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:46:30,914 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:46:30,914 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:46:30,915 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:46:30,928 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:46:30,930 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:46:30,930 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:46:30,930 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:51:06,923 [Worker-1659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:51:06,923 [Worker-1659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:51:06,925 [Worker-1659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:51:06,936 [Worker-1659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:51:06,937 [Worker-1659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:51:06,937 [Worker-1659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:51:06,937 [Worker-1659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:51:49,753 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:51:49,753 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:51:49,799 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:51:49,809 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:51:49,810 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:51:49,810 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:51:49,810 [Worker-1652: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 19:56:48,813 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:56:48,813 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:56:48,815 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:56:48,825 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:56:48,827 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:56:48,827 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:56:48,827 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 19:59:25,703 [Worker-1660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:59:25,704 [Worker-1660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:59:25,706 [Worker-1660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 19:59:25,734 [Worker-1660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 19:59:25,736 [Worker-1660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 19:59:25,736 [Worker-1660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 19:59:25,736 [Worker-1660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:19:49,367 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:19:49,367 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:19:49,369 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:19:49,401 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:19:49,404 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:19:49,404 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:19:49,404 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:22:47,805 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:22:47,806 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:22:47,807 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:22:47,831 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:22:47,833 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:22:47,833 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:22:47,833 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:23:22,646 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:23:22,646 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:23:22,646 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:23:22,647 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:23:22,648 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:23:22,648 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:23:22,648 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:23:26,933 [Worker-1665: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:23:26,933 [Worker-1665: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:23:26,934 [Worker-1665: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:23:26,934 [Worker-1665: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:23:26,936 [Worker-1665: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:23:26,936 [Worker-1665: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:23:26,936 [Worker-1665: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:27:44,647 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:27:44,648 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:27:44,649 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:27:44,661 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:27:44,662 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:27:44,662 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:27:44,663 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 20:28:04,196 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:28:04,196 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:28:04,198 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:28:04,210 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:28:04,211 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:28:04,211 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:28:04,212 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 20:28:32,206 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:28:32,206 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:28:32,208 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:28:32,236 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:28:32,238 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:28:32,238 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:28:32,238 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 20:34:19,215 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:34:19,215 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:34:19,216 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:34:19,226 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:34:19,228 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:34:19,228 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:34:19,228 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:36:04,457 [Worker-1669: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:36:04,457 [Worker-1669: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:36:04,459 [Worker-1669: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:36:04,469 [Worker-1669: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:36:04,471 [Worker-1669: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:36:04,471 [Worker-1669: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:36:04,471 [Worker-1669: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:36:54,679 [Worker-1669: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:36:54,679 [Worker-1669: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:36:54,680 [Worker-1669: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:36:54,708 [Worker-1669: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:36:54,709 [Worker-1669: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:36:54,709 [Worker-1669: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:36:54,709 [Worker-1669: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:38:29,626 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:38:29,627 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:38:29,628 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:38:29,738 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:38:29,739 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:38:29,739 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:38:29,740 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:39:03,814 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:39:03,814 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:39:03,816 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:39:03,827 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:39:03,828 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:39:03,828 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:39:03,828 [Worker-1671: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:44:06,895 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:44:06,895 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:44:06,896 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:44:06,908 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:44:06,910 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:44:06,910 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:44:06,910 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:48:21,691 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:48:21,691 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:48:21,692 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:48:21,703 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:48:21,704 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:48:21,705 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:48:21,705 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:51:50,037 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:51:50,038 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:51:50,039 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:51:50,049 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:51:50,051 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:51:50,051 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:51:50,051 [Worker-1661: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 20:53:39,859 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:53:39,859 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:53:39,861 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:53:39,884 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:53:39,886 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:53:39,886 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:53:39,886 [Worker-1673: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:55:34,633 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:55:34,634 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:55:34,635 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:55:34,645 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:55:34,647 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:55:34,647 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:55:34,647 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 20:59:11,564 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:59:11,564 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:59:11,565 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:59:11,575 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:59:11,576 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:59:11,576 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:59:11,576 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 20:59:44,520 [Worker-1675: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:59:44,520 [Worker-1675: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:59:44,522 [Worker-1675: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 20:59:44,532 [Worker-1675: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 20:59:44,534 [Worker-1675: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 20:59:44,534 [Worker-1675: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 20:59:44,534 [Worker-1675: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_REST_API_Sample\src\test\resources
+2024-08-16 21:02:25,227 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 21:02:25,227 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 21:02:25,229 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 21:02:25,240 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 21:02:25,242 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 21:02:25,242 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 21:02:25,243 [Worker-1670: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 21:02:34,471 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 21:02:34,471 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 21:02:34,472 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 21:02:34,483 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 21:02:34,484 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 21:02:34,484 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 21:02:34,485 [Worker-1668: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 21:03:36,212 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 21:03:36,213 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 21:03:36,214 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 21:03:36,224 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 21:03:36,226 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 21:03:36,226 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 21:03:36,226 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-16 21:03:39,590 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 21:03:39,590 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 21:03:39,592 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-16 21:03:39,600 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-16 21:03:39,601 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-16 21:03:39,601 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-16 21:03:39,601 [Worker-1672: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_ItemReader_REST_API_ItemWriter_N36\src\test\resources
+2024-08-18 11:34:48,006 [Worker-1690: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: personal.learning:Spring_Batch_FlatFile_ItemReader_JDBC_ItemWriter_Part2_N35:0.0.1-SNAPSHOT @ C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\pom.xml.
+2024-08-18 11:35:13,246 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:35:13,246 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:35:13,247 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:35:13,251 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:35:13,254 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:35:13,254 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:35:13,255 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:35:18,026 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:35:18,026 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:35:18,027 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:35:18,032 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:35:18,034 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:35:18,034 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:35:18,034 [Worker-1690: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:36:31,481 [Worker-1692: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: personal.learning:Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37:0.0.1-SNAPSHOT @ C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\pom.xml.
+2024-08-18 11:36:36,060 [Worker-1692: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:36:36,060 [Worker-1692: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:36:36,061 [Worker-1692: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:36:36,061 [Worker-1692: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:36:36,063 [Worker-1692: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:36:36,063 [Worker-1692: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:36:36,063 [Worker-1692: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:39:42,138 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:39:42,138 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:39:42,140 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:39:42,194 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:39:42,196 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:39:42,196 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:39:42,196 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:40:31,605 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:40:31,605 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:40:31,606 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:40:31,627 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:40:31,629 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:40:31,629 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:40:31,629 [Worker-1688: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:43:09,035 [Worker-1693: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:43:09,035 [Worker-1693: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:43:09,037 [Worker-1693: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:43:09,211 [Worker-1693: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:43:09,213 [Worker-1693: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:43:09,213 [Worker-1693: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:43:09,213 [Worker-1693: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:45:27,632 [Worker-1697: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:45:27,632 [Worker-1697: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:45:27,634 [Worker-1697: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:45:27,658 [Worker-1697: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:45:27,659 [Worker-1697: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:45:27,659 [Worker-1697: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:45:27,660 [Worker-1697: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:45:35,189 [Worker-1698: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:45:35,189 [Worker-1698: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:45:35,191 [Worker-1698: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:45:35,214 [Worker-1698: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:45:35,215 [Worker-1698: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:45:35,215 [Worker-1698: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:45:35,215 [Worker-1698: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:49:48,108 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:49:48,108 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:49:48,109 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:49:48,109 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:49:48,111 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:49:48,111 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:49:48,111 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:52:29,313 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:52:29,313 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:52:29,315 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:52:29,325 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:52:29,327 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:52:29,327 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:52:29,327 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:52:58,191 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:52:58,191 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:52:58,193 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:52:58,202 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:52:58,204 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:52:58,204 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:52:58,204 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:53:23,998 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:53:23,998 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:53:24,000 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:53:24,010 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:53:24,012 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:53:24,012 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:53:24,012 [Worker-1696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:53:53,905 [Worker-1704: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:53:53,905 [Worker-1704: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:53:53,907 [Worker-1704: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:53:53,927 [Worker-1704: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:53:53,929 [Worker-1704: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:53:53,929 [Worker-1704: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:53:53,929 [Worker-1704: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:54:10,347 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:54:10,347 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:54:10,349 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:54:10,404 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:54:10,405 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:54:10,405 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:54:10,406 [Worker-1705: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:54:47,970 [Worker-1707: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:54:47,970 [Worker-1707: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:54:47,972 [Worker-1707: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:54:48,094 [Worker-1707: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:54:48,096 [Worker-1707: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:54:48,096 [Worker-1707: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:54:48,096 [Worker-1707: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:55:35,962 [Worker-1706: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:55:35,962 [Worker-1706: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:55:35,964 [Worker-1706: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:55:36,096 [Worker-1706: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:55:36,098 [Worker-1706: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:55:36,098 [Worker-1706: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:55:36,098 [Worker-1706: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 11:56:16,042 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:56:16,042 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:56:16,044 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 11:56:16,054 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 11:56:16,055 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 11:56:16,055 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 11:56:16,055 [Worker-1700: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:10:35,873 [Worker-1708: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:10:35,874 [Worker-1708: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:10:35,876 [Worker-1708: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 12:10:35,886 [Worker-1708: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:10:35,888 [Worker-1708: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:10:35,888 [Worker-1708: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:10:35,889 [Worker-1708: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:11:00,226 [Worker-1714: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:11:00,226 [Worker-1714: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:11:00,227 [Worker-1714: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 12:11:00,241 [Worker-1714: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:11:00,243 [Worker-1714: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:11:00,243 [Worker-1714: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:11:00,243 [Worker-1714: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:16:01,568 [Worker-1716: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:16:01,568 [Worker-1716: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:16:01,570 [Worker-1716: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 12:16:01,603 [Worker-1716: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:16:01,605 [Worker-1716: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:16:01,605 [Worker-1716: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:16:01,605 [Worker-1716: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:21:30,743 [Worker-1712: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:21:30,744 [Worker-1712: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:21:30,744 [Worker-1712: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:21:30,744 [Worker-1712: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:21:30,746 [Worker-1712: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:21:30,746 [Worker-1712: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:21:30,746 [Worker-1712: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:26:10,507 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:26:10,507 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:26:10,508 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:26:10,508 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:26:10,510 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:26:10,510 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:26:10,511 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:26:57,286 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:26:57,287 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:26:57,287 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:26:57,287 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:26:57,289 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:26:57,289 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:26:57,289 [Worker-1721: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:31:50,011 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:31:50,011 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:31:50,012 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:31:50,012 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:31:50,014 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:31:50,014 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:31:50,014 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:36:00,981 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:36:00,981 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:36:00,982 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 12:36:01,026 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:36:01,027 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:36:01,028 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:36:01,028 [Worker-1724: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:41:50,420 [Worker-1728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:41:50,420 [Worker-1728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:41:50,421 [Worker-1728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 12:41:50,462 [Worker-1728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:41:50,464 [Worker-1728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:41:50,464 [Worker-1728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:41:50,465 [Worker-1728: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:42:58,785 [Worker-1727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:42:58,786 [Worker-1727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:42:58,786 [Worker-1727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:42:58,786 [Worker-1727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:42:58,788 [Worker-1727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:42:58,788 [Worker-1727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:42:58,788 [Worker-1727: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:44:42,410 [Worker-1726: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:44:42,410 [Worker-1726: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:44:42,412 [Worker-1726: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 12:44:42,422 [Worker-1726: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:44:42,424 [Worker-1726: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:44:42,424 [Worker-1726: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:44:42,424 [Worker-1726: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:48:10,167 [Worker-1730: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:48:10,167 [Worker-1730: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:48:10,168 [Worker-1730: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 12:48:10,191 [Worker-1730: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:48:10,193 [Worker-1730: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:48:10,193 [Worker-1730: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:48:10,193 [Worker-1730: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
+2024-08-18 12:54:34,346 [Worker-1736: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:54:34,346 [Worker-1736: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:54:34,346 [Worker-1736: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:54:34,347 [Worker-1736: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-18 12:54:34,348 [Worker-1736: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 12:54:34,348 [Worker-1736: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 12:54:34,348 [Worker-1736: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DELL\Desktop\Batch_Processing_With_Spring_Batch_And_Spring_Boot\Spring_Batch_FlatFile_Reader_JSON_Writer_FaultTolerance_Skip_N37\src\test\resources
