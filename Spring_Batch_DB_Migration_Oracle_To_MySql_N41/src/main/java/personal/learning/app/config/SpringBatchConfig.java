@@ -19,7 +19,14 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.orm.jpa.JpaTransactionManager;
 
-import personal.learning.app.listener.SkipBadRecordListener;
+import personal.learning.app.listener.SkipBadRecordListenerForCourse;
+import personal.learning.app.listener.SkipBadRecordListenerForCourseStudent;
+import personal.learning.app.listener.SkipBadRecordListenerForInstructor;
+import personal.learning.app.listener.SkipBadRecordListenerForInstructorDetail;
+import personal.learning.app.listener.SkipBadRecordListenerForInstructorJobDetail;
+import personal.learning.app.listener.SkipBadRecordListenerForReview;
+import personal.learning.app.listener.SkipBadRecordListenerForStudent;
+import personal.learning.app.listener.SkipBadRecordListenerForStudentCourse;
 import personal.learning.app.mysql.entity.CourseMsq;
 import personal.learning.app.mysql.entity.CourseStudentMsq;
 import personal.learning.app.mysql.entity.InstructorDetailMsq;
@@ -64,7 +71,28 @@ public class SpringBatchConfig {
 	private StepBuilderFactory stepBuilderFactory;
 	
 	@Autowired
-	private SkipBadRecordListener skipBadRecordListener;
+	private SkipBadRecordListenerForInstructor skipBadRecordListenerForInstructor;
+	
+	@Autowired
+	private SkipBadRecordListenerForInstructorDetail skipBadRecordListenerForInstructorDetail;
+	
+	@Autowired
+	private SkipBadRecordListenerForCourse skipBadRecordListenerForCourse;
+	
+	@Autowired
+	private SkipBadRecordListenerForReview skipBadRecordListenerForReview;
+	
+	@Autowired
+	public SkipBadRecordListenerForStudent skipBadRecordListenerForStudent;
+	
+	@Autowired
+	public SkipBadRecordListenerForCourseStudent skipBadRecordListenerForCourseStudent;
+	
+	@Autowired
+	public SkipBadRecordListenerForStudentCourse skipBadRecordListenerForStudentCourse;
+	
+	@Autowired
+	public SkipBadRecordListenerForInstructorJobDetail skipBadRecordListenerForInstructorJobDetail;
 	
 	@Autowired
 	private ItemProcessor<InstructorOra, InstructorMsq> jpaItemProcessorForInstructor;
@@ -118,7 +146,7 @@ public class SpringBatchConfig {
 								 .faultTolerant()
 								 .skip(Exception.class)
 								 .skipPolicy(new AlwaysSkipItemSkipPolicy())
-								 .listener(skipBadRecordListener)
+								 .listener(skipBadRecordListenerForInstructor)
 								 .transactionManager(jpaTransactionManager)
 								 .build();
 		
@@ -162,7 +190,7 @@ public class SpringBatchConfig {
 								 .faultTolerant()
 								 .skip(Exception.class)
 								 .skipPolicy(new AlwaysSkipItemSkipPolicy())
-								 .listener(skipBadRecordListener)
+								 .listener(skipBadRecordListenerForInstructorDetail)
 								 .transactionManager(jpaTransactionManager)
 								 .build();
 		
@@ -206,7 +234,7 @@ public class SpringBatchConfig {
 								 .faultTolerant()
 								 .skip(Exception.class)
 								 .skipPolicy(new AlwaysSkipItemSkipPolicy())
-								 .listener(skipBadRecordListener)
+								 .listener(skipBadRecordListenerForCourse)
 								 .transactionManager(jpaTransactionManager)
 								 .build();
 		
@@ -250,7 +278,7 @@ public class SpringBatchConfig {
 								 .faultTolerant()
 								 .skip(Exception.class)
 								 .skipPolicy(new AlwaysSkipItemSkipPolicy())
-								 .listener(skipBadRecordListener)
+								 .listener(skipBadRecordListenerForReview)
 								 .transactionManager(jpaTransactionManager)
 								 .build();
 		
@@ -294,7 +322,7 @@ public class SpringBatchConfig {
 								 .faultTolerant()
 								 .skip(Exception.class)
 								 .skipPolicy(new AlwaysSkipItemSkipPolicy())
-								 .listener(skipBadRecordListener)
+								 .listener(skipBadRecordListenerForStudent)
 								 .transactionManager(jpaTransactionManager)
 								 .build();
 		
@@ -338,7 +366,7 @@ public class SpringBatchConfig {
 								 .faultTolerant()
 								 .skip(Exception.class)
 								 .skipPolicy(new AlwaysSkipItemSkipPolicy())
-								 .listener(skipBadRecordListener)
+								 .listener(skipBadRecordListenerForCourseStudent)
 								 .transactionManager(jpaTransactionManager)
 								 .build();
 		
@@ -382,7 +410,7 @@ public class SpringBatchConfig {
 								 .faultTolerant()
 								 .skip(Exception.class)
 								 .skipPolicy(new AlwaysSkipItemSkipPolicy())
-								 .listener(skipBadRecordListener)
+								 .listener(skipBadRecordListenerForStudentCourse)
 								 .transactionManager(jpaTransactionManager)
 								 .build();
 		
@@ -426,7 +454,7 @@ public class SpringBatchConfig {
 								 .faultTolerant()
 								 .skip(Exception.class)
 								 .skipPolicy(new AlwaysSkipItemSkipPolicy())
-								 .listener(skipBadRecordListener)
+								 .listener(skipBadRecordListenerForInstructorJobDetail)
 								 .transactionManager(jpaTransactionManager)
 								 .build();
 		
