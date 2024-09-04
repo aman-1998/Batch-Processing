@@ -54,5 +54,11 @@ public class InstructorMsq {
 	public void setInstructorEmail(String instructorEmail) {
 		this.instructorEmail = instructorEmail;
 	}
+
+	@Override
+	public String toString() {
+		return "InstructorMsq [id=" + id + ", instructorFirstName=" + instructorFirstName + ", instructorLastName="
+				+ instructorLastName + ", instructorEmail=" + instructorEmail + "]";
+	}
 	
 }

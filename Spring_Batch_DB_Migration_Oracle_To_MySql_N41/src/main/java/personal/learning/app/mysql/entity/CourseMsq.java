@@ -66,4 +66,10 @@ public class CourseMsq {
 		this.courseDescription = courseDescription;
 	}
 
+	@Override
+	public String toString() {
+		return "CourseMsq [id=" + id + ", courseName=" + courseName + ", instructorId=" + instructorId + ", price="
+				+ price + ", courseDescription=" + courseDescription + "]";
+	}
+
 }

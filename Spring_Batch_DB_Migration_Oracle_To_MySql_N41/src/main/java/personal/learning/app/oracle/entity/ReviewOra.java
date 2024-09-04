@@ -43,4 +43,10 @@ public class ReviewOra {
 	public void setCourseId(BigInteger courseId) {
 		this.courseId = courseId;
 	}
+
+	@Override
+	public String toString() {
+		return "ReviewOra [id=" + id + ", comments=" + comments + ", courseId=" + courseId + "]";
+	}
+	
 }

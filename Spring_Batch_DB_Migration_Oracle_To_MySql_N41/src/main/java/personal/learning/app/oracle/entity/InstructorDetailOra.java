@@ -65,4 +65,11 @@ public class InstructorDetailOra {
 	public void setInstructorId(BigInteger instructorId) {
 		this.instructorId = instructorId;
 	}
+
+	@Override
+	public String toString() {
+		return "InstructorDetailOra [id=" + id + ", youtubeChannel=" + youtubeChannel + ", channelDescription="
+				+ channelDescription + ", noOfSubscriber=" + noOfSubscriber + ", instructorId=" + instructorId + "]";
+	}
+	
 }

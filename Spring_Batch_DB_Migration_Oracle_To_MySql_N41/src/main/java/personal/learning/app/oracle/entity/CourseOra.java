@@ -65,4 +65,11 @@ public class CourseOra {
 	public void setCourseDescription(String courseDescription) {
 		this.courseDescription = courseDescription;
 	}
+
+	@Override
+	public String toString() {
+		return "CourseOra [id=" + id + ", courseName=" + courseName + ", instructorId=" + instructorId + ", price="
+				+ price + ", courseDescription=" + courseDescription + "]";
+	}
+	
 }

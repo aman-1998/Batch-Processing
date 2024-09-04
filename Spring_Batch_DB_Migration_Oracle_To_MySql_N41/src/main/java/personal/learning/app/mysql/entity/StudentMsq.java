@@ -65,4 +65,11 @@ public class StudentMsq {
 	public void setStudentEmail(String studentEmail) {
 		this.studentEmail = studentEmail;
 	}
+
+	@Override
+	public String toString() {
+		return "StudentMsq [id=" + id + ", roll=" + roll + ", studentFirstName=" + studentFirstName
+				+ ", studentLastName=" + studentLastName + ", studentEmail=" + studentEmail + "]";
+	}
+	
 }

@@ -76,5 +76,12 @@ public class InstructorJobDetailOra {
 	public void setInstructorId(BigInteger instructorId) {
 		this.instructorId = instructorId;
 	}
+
+	@Override
+	public String toString() {
+		return "InstructorJobDetailOra [id=" + id + ", organization=" + organization + ", officeAddress="
+				+ officeAddress + ", officeHrPhoneNo=" + officeHrPhoneNo + ", officeHrEmail=" + officeHrEmail
+				+ ", instructorId=" + instructorId + "]";
+	}
 	
 }

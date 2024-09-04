@@ -22,8 +22,8 @@ public class SkipBadRecordListenerForInstructorDetail {
 				  + "SkipedInReaderBadRecord.txt";
 
 		String errorMsg = (th instanceof FlatFileParseException) 
-		  ? ((FlatFileParseException) th).getInput() 
-		  : th.getMessage();
+						  ? ((FlatFileParseException) th).getInput() 
+						  : th.getMessage();
 		createFile(filePath, "Error in reading from INSTRUCTOR_DETAIL table in Oracle DB: " + errorMsg);
     }
 

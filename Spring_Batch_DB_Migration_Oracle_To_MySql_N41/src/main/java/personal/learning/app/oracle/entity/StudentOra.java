@@ -65,4 +65,11 @@ public class StudentOra {
 	public void setStudentEmail(String studentEmail) {
 		this.studentEmail = studentEmail;
 	}
+
+	@Override
+	public String toString() {
+		return "StudentOra [id=" + id + ", roll=" + roll + ", studentFirstName=" + studentFirstName
+				+ ", studentLastName=" + studentLastName + ", studentEmail=" + studentEmail + "]";
+	}
+	
 }

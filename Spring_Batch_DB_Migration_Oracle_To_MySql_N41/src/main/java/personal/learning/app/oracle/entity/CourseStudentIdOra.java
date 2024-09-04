@@ -52,4 +52,5 @@ public class CourseStudentIdOra implements Serializable {
 	public String toString() {
 		return "CourseStudentIdOra [studentId=" + studentId + ", courseId=" + courseId + "]";
 	}
+	
 }

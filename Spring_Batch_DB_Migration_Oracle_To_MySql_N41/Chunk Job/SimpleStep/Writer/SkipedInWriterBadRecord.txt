@@ -1,0 +1,8 @@
+Date : 2024-08-31T19:07:42.006739200 >>>>>> Error in Writing to STUDENT table in MySql DB: StudentMsq [id=106, roll=3, studentFirstName=Shiv, studentLastName=null, studentEmail=shiv1998@gmail.com]
+Exception: org.hibernate.exception.ConstraintViolationException: could not execute statement
+Date : 2024-08-31T19:07:42.130002800 >>>>>> Error in Writing to STUDENT table in MySql DB: StudentMsq [id=108, roll=5, studentFirstName=Praful, studentLastName=null, studentEmail=praful1997@gmail.com]
+Exception: org.hibernate.exception.ConstraintViolationException: could not execute statement
+Date : 2024-08-31T19:07:42.414872700 >>>>>> Error in Writing to STUDENT table in MySql DB: StudentMsq [id=113, roll=10, studentFirstName=Vishnu, studentLastName=null, studentEmail=vishnu.jain@gmail.com]
+Exception: org.hibernate.exception.ConstraintViolationException: could not execute statement
+Date : 2024-08-31T19:07:42.646136 >>>>>> Error in Writing to STUDENT table in MySql DB: StudentMsq [id=115, roll=12, studentFirstName=Navika, studentLastName=null, studentEmail=navika.kumar@gmail.com]
+Exception: org.hibernate.exception.ConstraintViolationException: could not execute statement

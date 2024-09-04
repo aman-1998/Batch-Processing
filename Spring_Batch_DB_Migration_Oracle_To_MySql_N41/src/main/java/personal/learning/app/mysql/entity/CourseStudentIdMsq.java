@@ -50,6 +50,7 @@ public class CourseStudentIdMsq implements Serializable {
 
 	@Override
 	public String toString() {
-		return "CourseStudent [studentId=" + studentId + ", courseId=" + courseId + "]";
+		return "CourseStudentIdMsq [studentId=" + studentId + ", courseId=" + courseId + "]";
 	}
+	
 }

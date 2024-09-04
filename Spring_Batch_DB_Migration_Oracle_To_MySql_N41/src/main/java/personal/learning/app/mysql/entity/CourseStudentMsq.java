@@ -41,7 +41,7 @@ public class CourseStudentMsq implements Serializable {
 
 	@Override
 	public String toString() {
-		return "CourseStudent [courseStudentId=" + courseStudentId + "]";
+		return "CourseStudentMsq [courseStudentId=" + courseStudentId + "]";
 	}
 	
 }

@@ -43,5 +43,10 @@ public class ReviewMsq {
 	public void setCourseId(BigInteger courseId) {
 		this.courseId = courseId;
 	}
+
+	@Override
+	public String toString() {
+		return "ReviewMsq [id=" + id + ", comments=" + comments + ", courseId=" + courseId + "]";
+	}
 	
 }

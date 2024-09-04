@@ -66,4 +66,10 @@ public class InstructorDetailMsq {
 		this.instructorId = instructorId;
 	}
 
+	@Override
+	public String toString() {
+		return "InstructorDetailMsq [id=" + id + ", youtubeChannel=" + youtubeChannel + ", channelDescription="
+				+ channelDescription + ", noOfSubscribers=" + noOfSubscribers + ", instructorId=" + instructorId + "]";
+	}
+
 }
