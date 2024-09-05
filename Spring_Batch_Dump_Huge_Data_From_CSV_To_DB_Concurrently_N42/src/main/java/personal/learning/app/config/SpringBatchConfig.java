@@ -1,14 +1,11 @@
 package personal.learning.app.config;
 
-import java.math.BigInteger;
-
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepScope;
-import org.springframework.batch.core.step.skip.AlwaysSkipItemSkipPolicy;
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.batch.item.data.RepositoryItemWriter;
 import org.springframework.batch.item.file.FlatFileItemReader;
@@ -23,12 +20,9 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.FileSystemResource;
 import org.springframework.core.task.SimpleAsyncTaskExecutor;
 import org.springframework.core.task.TaskExecutor;
-import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
 import personal.learning.app.entity.CustomerCsv;
 import personal.learning.app.entity.CustomerDb;
-import personal.learning.app.listener.SkipBadRecordListenerForCustomer;
 import personal.learning.app.repository.CustomerRepository;
 
 /*
@@ -86,9 +80,6 @@ public class SpringBatchConfig {
 	private StepBuilderFactory stepBuilderFactory;
 	
 	@Autowired
-	private SkipBadRecordListenerForCustomer skipBadRecordListenerForCustomer;
-	
-	@Autowired
 	private ItemProcessor<CustomerCsv, CustomerDb> repositoryItemProcessorForCustomer;
 	
 	@Bean
@@ -99,7 +90,6 @@ public class SpringBatchConfig {
 								.build();
 	}
 	
-	@Bean
 	public Step dumpCustomerDataChunkStep() {				
 		
 		return stepBuilderFactory.get("Dumping huge data into from csv to database")
@@ -170,13 +160,18 @@ public class SpringBatchConfig {
 	
 	@Bean
 	public TaskExecutor taskExecutor() {
-		ThreadPoolTaskExecutor taskExecutor = new ThreadPoolTaskExecutor();
-	    taskExecutor.setCorePoolSize(10); // Adjust based on your needs
-	    taskExecutor.setMaxPoolSize(20);
-	    taskExecutor.setQueueCapacity(25);
-	    taskExecutor.setThreadNamePrefix("spring-batch-thread-");
-	    taskExecutor.initialize();
-	    return taskExecutor;
+		
+		SimpleAsyncTaskExecutor asyncTaskExecutor = new SimpleAsyncTaskExecutor();
+        asyncTaskExecutor.setConcurrencyLimit(10);
+        return asyncTaskExecutor;
+		
+//		ThreadPoolTaskExecutor taskExecutor = new ThreadPoolTaskExecutor();
+//	    taskExecutor.setCorePoolSize(10); // Adjust based on your needs
+//	    taskExecutor.setMaxPoolSize(20);
+//	    taskExecutor.setQueueCapacity(25);
+//	    taskExecutor.setThreadNamePrefix("spring-batch-thread-");
+//	    taskExecutor.initialize();
+//	    return taskExecutor;
 	}
 	
 }
