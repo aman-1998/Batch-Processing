@@ -37,7 +37,7 @@ public class SpringBatchConfig {
 	
 	public Step simpleStep() {
 		return stepBuilderFactory.get("Simple Step")
-								 .<Integer, Integer>chunk(3)
+								 .<Integer, Integer>chunk(3)   // 3 times reading-processing and 1 write
 								 .reader(itemReaderForList)
 								 //.processor(itemProcessorForList)
 								 .writer(ItemWriterForList)

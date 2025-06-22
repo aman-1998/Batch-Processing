@@ -120,6 +120,44 @@ public class SpringBatchConfig {
 		 * Note: Retry mechanism is applicable only for ItemProcessor and ItemWriter
 		 */
 		
+		/*
+		 * Listeners in Spring Batch
+		 * 
+		 * 1. JobExecutionListener
+		 *     beforeJob: JobExecution
+		 *     afterJob: JobExecution
+		 *     
+         * 2. StepExecutionListener
+         *     beforeStep: StepExecution
+         *     afterStep: StepExecution
+         *     
+         * 3. ChunkListener
+         *     beforeChunk: ChunkContext
+         *     afterChunk: ChunkContext
+         *     afterChunkError: ChunkContext
+         * 
+         * 4. ItemReadListener
+         *     beforeRead: 
+         *     afterRead: StudentCSV
+         *     oneReadError: Exception
+         *     
+         * 5. ItemProcessListener
+         *     beforeProcess: StudentCSV
+         *     afterProcess: StudentCSV, StudentDB
+         *     onProcessError: StudentCSV, Exception
+         *     
+         * 6. ItemWriteLsitener
+         *     beforeWrite: List<? extends StudentDB>
+         *     afterWrite: List<? extends StudentDB>
+         *     onWriteError: Exception, List<? extends StudentDB>
+         *     
+         * 7. SkipListener
+         *     onSkipInRead: Throwable
+         *     onSkipInProcess: StudentCSV, Throwable
+         *     onSkipInWrite: StudentDB, Throwable
+         * 
+		 */
+		
 	}
 	
 	public Step taskletStep() {

@@ -9,5 +9,6 @@ import personal.learning.app.entity.CustomerDb;
 
 @Repository
 public interface CustomerRepository extends JpaRepository<CustomerDb, BigInteger> {
-
+	
+	
 }

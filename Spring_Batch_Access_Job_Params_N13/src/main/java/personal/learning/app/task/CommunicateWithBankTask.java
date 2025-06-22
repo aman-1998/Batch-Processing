@@ -16,6 +16,7 @@ public class CommunicateWithBankTask implements Tasklet {
 												 .getParameters()
 												 .get("Credit Bank")
 												 .getValue();
+		
 		System.out.println("Credit Bank = " + creditBank);
 		
 //		String creditBank = (String) contribution.getStepExecution()
